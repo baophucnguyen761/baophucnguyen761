@@ -32,7 +32,7 @@ I am a passionate **Software Engineering student** with a strong foundation in p
 
 ## 📈 GitHub Stats
 ![Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phucnguyen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phucnguyen&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baophucnguyen761&layout=compact&theme=radical)
 
 ---
 
