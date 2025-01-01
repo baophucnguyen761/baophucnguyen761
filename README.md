@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Bao Phuc Nguyen
 
  
-I am a passionate **Software Engineering student** with a strong foundation in programming and database management. I love building efficient and creative solutions to real-world problems.
+I am a passionate **Software Engineering student** with an eagerness to learn programming and database management. I love building efficient and creative solutions to real-world problems.
 
 ---
 
