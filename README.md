@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Bao Phuc Nguyen
 
-![Banner](https://via.placeholder.com/1000x250?text=Welcome+to+My+GitHub+Profile)  
+![Banner](./assets/banner.png)
+ 
 
 I am a passionate **Software Engineering student** with a strong foundation in programming and database management. I love building efficient and creative solutions to real-world problems.
 
